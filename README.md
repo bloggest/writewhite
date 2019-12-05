@@ -1,0 +1,2 @@
+# writewhite
+write white
